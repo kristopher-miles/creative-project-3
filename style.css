@@ -1,0 +1,61 @@
+.jumbotron{
+    padding-bottom:1em;
+    padding-top:1em;
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+    background-color: #ffedcc;
+}
+#candy-bowl-image{
+    padding-bottom:2em;
+    display:block;
+    margin:auto;
+    margin-top: 0px;
+}
+.structure{
+    background-color:lightgray;
+    padding:.5em;
+    margin-top:.5em;
+}
+
+.structure p{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.structure-button{
+    display:inline;
+    float:right;   
+}
+.button-row{
+    padding: 3% 0;
+    margin-top: 0;
+}
+
+.button-row p{
+   padding: 10% 0;
+    display:inline;
+}
+
+#score{
+    text-align: center;
+    
+    z-index: 1;
+    background-color:rgba(	255, 140, 0,.6);
+    padding:1em;
+    margin-bottom: 0px;
+    opacity: .7;
+}
+
+#structures-holder{
+    padding-bottom:20px;
+}
+
+#stats-holder{
+    background-color: rgba(211,211,211,.7)
+}
+
